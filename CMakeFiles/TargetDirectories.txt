@@ -1,0 +1,4 @@
+/home/obyss/client-server-image/CMakeFiles/rebuild_cache.dir
+/home/obyss/client-server-image/CMakeFiles/edit_cache.dir
+/home/obyss/client-server-image/CMakeFiles/server.dir
+/home/obyss/client-server-image/CMakeFiles/client.dir
